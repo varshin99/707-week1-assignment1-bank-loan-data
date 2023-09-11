@@ -13,15 +13,18 @@ Data Quality Check: Initial data inspection using df.info() provided a quick ove
 2. Exploratory Data Analysis (EDA):
 
 A) Job-wise Distribution: This dataset represents the number of individuals contacted during direct marketing phone campaigns by a Portuguese banking institution, segmented by their job roles and whether they accepted a term deposit. The "admin." category had the most contacts, with 10,419 individuals, followed by "blue-collar" and "technician" roles. The least contacted category was labeled "unknown", with only 330 individuals. Across all categories, only a small fraction of the contacted individuals subscribed to the term deposit. Students alone have shown up in good numbers in the subscription policy with repect to no of students conatacted.
- 
+![my image](Image7.webp)
 
 B)Education-wise Distribution: This dataset represents the number of individuals contacted during direct marketing phone campaigns by a Portuguese banking institution, segmented by their educational level and whether they accepted a term deposit. The category "university.degree" had the most contacts, with 12,164 individuals, followed by "high.school" with 9,512, and then "basic.9y" with 6,045 individuals. The least contacted education level was "illiterate", with only 18 individuals. Across all educational levels, only a small fraction of the contacted individuals subscribed to the term deposit.
+ ![my image](Image6.webp)
  
 C)Martial-wise Distribution: This dataset represents the number of individuals contacted during direct marketing phone campaigns by a Portuguese banking institution, segmented by their marital status and whether they accepted a term deposit. The "married" category had the most contacts, with 24,921 individuals, followed by "single" with 11,564, and then "divorced" with 4,611 individuals. The least contacted category was labeled "unknown", with only 80 individuals. Across all marital statuses, only a small fraction of the contacted individuals subscribed to the term deposit.
+ ![my image](Image5.webp)
  
 D)Contingency Table:
  
- 
+  ![my image](Image3.webp)
+  ![my image](Image4.webp)
 1)Ceontact
 •	Cellular Contact:
 No (0.852611): Approximately 85.26% of the clients who were contacted via a cellular phone declined the offer for a term deposit.
