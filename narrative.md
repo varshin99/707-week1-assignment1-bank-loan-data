@@ -40,7 +40,7 @@ Moderate Success in october and september:The bank can target these months apart
 6)dayofweek:This data shows the customers last contact day of the week doesnt affect the chance of him/her subscribing for term deposit
 
 E)Correlation matrix:
- 
+ ![my image](image2.webp)
 High Positive Correlation:
 •	emp.var.rate and euribor3m: 0.972244. This indicates that the employee variation rate and the euribor 3 month rate move almost in unison. As one increases, the other is also likely to increase.
 •	emp.var.rate and nr.employed: 0.906949. The employee variation rate and the number of employees are also positively correlated.
